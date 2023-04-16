@@ -1,0 +1,6 @@
+[autoconf]
+git-tree-sha1 = "572db85bde5d1b62c7bef4e1cf606f2c1e1bbe26"
+
+    [[autoconf.download]]
+    sha256 = "52649f6c988aa73f2aa62ebc9da621b334fe58271a7ff95df46c18692f0b4769"
+    url = "https://github.com/staticfloat/autoconf_jll.jl/releases/download/autoconf-v2.71.0+2/autoconf.v2.71.0.any.tar.gz"
