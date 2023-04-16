@@ -11,6 +11,7 @@ For more details about JLL packages and how to use them, see `BinaryBuilder.jl` 
 The tarballs for `autoconf_jll.jl` have been built from these sources:
 
 * compressed archive: https://ftp.gnu.org/gnu/autoconf/autoconf-2.71.tar.xz (SHA256 checksum: `f14c83cfebcc9427f2c3cea7258bd90df972d92eb26752da4ddad81c87a0faa4`)
+* files in directory, relative to originating `build_tarballs.jl`: `./patches`
 
 ## Platforms
 
